@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hello, world!
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niklas-gif&theme=radical&langs_count=8)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niklas-gif&show_icons=true&theme=radical)
 <!--
 **Niklas-gif/Niklas-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
